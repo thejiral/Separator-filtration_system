@@ -56,7 +56,33 @@ Test the connection of both parts, they should easily slide into each other. If 
 
 ![microfit-connection-testfit](https://github.com/thejiral/Separator-filtration_system/assets/62755624/0e051a12-e469-4881-89b1-1167154d1c1c)
 
+Disassemble the connectors and remove the micro-fit 3.0 plugs from plastic parts again. 
+
+Install the bottom mesh in partA by sliding it in while tilted until the intentation in the filter body, press the mesh then past the holding protrusions. Use some Hexkey if your fingers don't make it as far. Check if the mesh is fully clipped in as seen here:
+
+![Meshinsert](https://github.com/thejiral/Separator-filtration_system/assets/62755624/fd99f50d-7af2-4311-bb3e-fd61a32a6a52)
+
+Add M3 heat inserts to the back of partA. 
+![PartA-heatinserts](https://github.com/thejiral/Separator-filtration_system/assets/62755624/68e92178-643f-4388-a1da-3b57399fa0d0)
+
+Assemble PartA and PartC with 4 M3x6 button head screws. 
+![PartA+C_assembly](https://github.com/thejiral/Separator-filtration_system/assets/62755624/687874d8-2432-4e53-bc5f-f2e97afba82a)
+
+Apply EPDM as shown. The blower inlet is prepared with EPDM tape on all sides, make sure that on the other side, those strips only reach as far as the opening and not further. 
+![PartA+C_EPDM](https://github.com/thejiral/Separator-filtration_system/assets/62755624/4a482e1f-2ce8-4515-a05e-1462455c236b)
+
+Add M3 heat inserts and EPDM tape to partD as shown. Cut the 10 mm tape in half to a width of 5 mm and apply it ring shaped around the opening. Along the vertical wall apply the 10 mm tape centrally.
+![partD-heatinserts+EPDM](https://github.com/thejiral/Separator-filtration_system/assets/62755624/ff8793ec-f17c-4f55-847e-3b377118fdab)
+
+Insert the blower in PartD by wiggling it in, make sure not to push the tape down and direct the cable to the opening. 
+![PartD+blower+cablemanagement](https://github.com/thejiral/Separator-filtration_system/assets/62755624/212a4d9f-24d6-4585-8319-989fb36548fc)
+
+Combine partA+C and partD. Make sure not to clamp in cable or other parts or cause some EPDM tape overlap. There should be only slight backpressure. Keep both parts together with one hand and fasten 3Mx6mm countersunk head cap screws with the other hand. The cable has to be lead throug the opening on the side and has to be routed to the front where the connector will be located. 
+
+![Full_assembly-magnets+cablemanagement](https://github.com/thejiral/Separator-filtration_system/assets/62755624/8795b6d1-7762-4bdb-904f-95841f553d67)
+
+Shorten the cable as needed, crimp them, assemble the connector and insert it in place. 
 
 
 
-
+Repeat the assembly for all modules.
