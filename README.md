@@ -5,7 +5,7 @@
 
 # Introduction
 
-This is my total remix of The_Filter, following the same general principle but designed from scratch with a number of smaller and larger differences to it.
+This is my total remix of The_Filter (https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER), following the same general principle but designed from scratch with a number of smaller and larger differences to it.
 
 The key features, which sets "The_Filter" apart from the Nevermore are kept in place: reversing the airflow so that air is not blown directly at the weak link of the enclosure (the door) and a design for 4 blowers to improve ventillation below the heatbed, for better and faster heating of the enclosure.
 
