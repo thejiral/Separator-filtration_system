@@ -1,4 +1,4 @@
-# Separator - AC air purification system for Voron 2.4
+# Separator - Activated charcoal air purification system for Voron 2.4
 
 ![Full_installation](https://github.com/thejiral/Separator-filtration_system/assets/62755624/00366042-8d77-4483-a73f-eb24123f4942)
 
@@ -35,6 +35,7 @@ a few meters of >0.25 mm2 cable for cable management, preferably Heluflon or equ
 * 31x M3 Voron style heat inserts (M3x5x4) (https://www.kris3d.de/products/heatinserts-m3x5x4?_pos=1&_sid=886fd1c22&_ss=r)
 * 6x M2 heat inserts (https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-standard-100-stk-pcs)
 a few meters of 2mm thick and 10 mm wide EPDM tape or similar (for example: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-10m-Rolle-2mm-x-diverse-Breiten.htm)
+* activated charcoal, suitable for air purification, a safe bet is the nevermore material (https://www.kris3d.de/products/nevermore-xl-bag?_pos=2&_sid=f7ffb3feb&_ss=r), alternatively source equivalent material from a respectable source.
 
 Optional:
 * 2x WAGO 221-2401 (https://www.digikey.at/de/products/detail/wago-corporation/221-2401/16284533)
