@@ -45,6 +45,7 @@ Optional:
 # Assembly
 
 Prepare MOLEX Micro-fit 3.0 connectors by removing the snap connection points with a cutter, so that the surface is afterwards flush, as shown in the below before and after image:
+
 ![microfit-modification](https://github.com/thejiral/Separator-filtration_system/assets/62755624/4b3ffcca-e1b7-49d7-8b20-1bed130a67ff)
 
 Test assemble the Microfit 3.0 connectors as shown in the two following images. Be careful of the precise orientation. 
