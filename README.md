@@ -43,6 +43,8 @@ Optional:
 
 # Assembly
 
+Prepare MOLEX Micro-fit 3.0 connectors by removing the snap connection points as shown in the below before and after image:
+
 
 
 
