@@ -85,7 +85,7 @@ Combine partA+C and partD. Make sure not to clamp in cable or other parts or cau
 
 Shorten the cable as needed, crimp them, assemble the connector and insert it in place. 
 
-Repeat the assembly for all modules.
+Repeat the assembly for all modules and fill the filter with active carbon. The filter cassette is closed by sliding a mesh in place at the end of the module. 
 ![middle-module-full_assembly](https://github.com/thejiral/Separator-filtration_system/assets/62755624/dad6a8ce-c682-4781-baa3-e8287f24bcd9)
 
 
