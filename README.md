@@ -52,6 +52,9 @@ Test assemble the Microfit 3.0 connectors as shown in the two following images. 
 
 ![PartA-micorfit_orientation](https://github.com/thejiral/Separator-filtration_system/assets/62755624/8120119f-c552-4c31-a1f6-9076cc177c68)
 
+Test the connection of both parts, they should easily slide into each other. If they don't one of the connectors is either upside down or there is some printing artifact which needs to be cleared by cutter. The connection should look like this: 
+
+![microfit-connection-testfit](https://github.com/thejiral/Separator-filtration_system/assets/62755624/0e051a12-e469-4881-89b1-1167154d1c1c)
 
 
 
