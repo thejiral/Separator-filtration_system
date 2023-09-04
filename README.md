@@ -65,18 +65,23 @@ Install the bottom mesh in partA by sliding it in while tilted until the intenta
 ![Meshinsert](https://github.com/thejiral/Separator-filtration_system/assets/62755624/fd99f50d-7af2-4311-bb3e-fd61a32a6a52)
 
 Add M3 heat inserts to the back of partA. 
+
 ![PartA-heatinserts](https://github.com/thejiral/Separator-filtration_system/assets/62755624/68e92178-643f-4388-a1da-3b57399fa0d0)
 
 Assemble PartA and PartC with 4 M3x6 button head screws. 
+
 ![PartA+C_assembly](https://github.com/thejiral/Separator-filtration_system/assets/62755624/687874d8-2432-4e53-bc5f-f2e97afba82a)
 
 Apply EPDM as shown. The blower inlet is prepared with EPDM tape on all sides, make sure that on the other side, those strips only reach as far as the opening and not further. 
+
 ![PartA+C_EPDM](https://github.com/thejiral/Separator-filtration_system/assets/62755624/4a482e1f-2ce8-4515-a05e-1462455c236b)
 
 Add M3 heat inserts and EPDM tape to partD as shown. Cut the 10 mm tape in half to a width of 5 mm and apply it ring shaped around the opening. Along the vertical wall apply the 10 mm tape centrally.
+
 ![partD-heatinserts+EPDM](https://github.com/thejiral/Separator-filtration_system/assets/62755624/ff8793ec-f17c-4f55-847e-3b377118fdab)
 
 Insert the blower in PartD by wiggling it in, make sure not to push the tape down and direct the cable to the opening. 
+
 ![PartD+blower+cablemanagement](https://github.com/thejiral/Separator-filtration_system/assets/62755624/212a4d9f-24d6-4585-8319-989fb36548fc)
 
 Combine partA+C and partD. Make sure not to clamp in cable or other parts or cause some EPDM tape overlap. There should be only slight backpressure. Keep both parts together with one hand and fasten 3Mx6mm countersunk head cap screws with the other hand. The cable has to be lead throug the opening on the side and has to be routed to the front where the connector will be located. Insert the 6 mm magnets into the holes after making sure that there are no bulges from the heatsets or other artifacts blocking the opening. Test fit the magnet and see if it fully goes in. If it holds by itself, fine, if not use a tiny drop of superglue at the bottom to glue the maget in place. When inserting magents make sure that the counterpart is inserted in the right direction, that it attracts the other magnet.
@@ -86,6 +91,7 @@ Combine partA+C and partD. Make sure not to clamp in cable or other parts or cau
 Shorten the cable as needed, crimp them, assemble the connector and insert it in place. 
 
 Repeat the assembly for all modules and fill the filter with active carbon. The filter cassette is closed by sliding a mesh in place at the end of the module. 
+
 ![middle-module-full_assembly](https://github.com/thejiral/Separator-filtration_system/assets/62755624/dad6a8ce-c682-4781-baa3-e8287f24bcd9)
 
 
@@ -94,17 +100,21 @@ Repeat the assembly for all modules and fill the filter with active carbon. The 
 #Installing modules in a Voron 2.4
 
 Add M2 heat inserts to the profile magnet holders. There are two different versions in the STL folder. Use the flush ones. For the dual module in the center one can use the "+1mm" magnet holder on the right side if there is too much play with the dual module between both profiles.
+
 ![magnetholder-heatinserts](https://github.com/thejiral/Separator-filtration_system/assets/62755624/d586e65b-87fc-451a-9bf1-51008e5471ad)
 
 Turn around the magnet holder and check if plastic debris is blocking the heat insert. If so clear it with a fine cutter knife.
+
 ![magnetholder-heatinserts-front](https://github.com/thejiral/Separator-filtration_system/assets/62755624/24f6f29a-c5fa-4244-a2f8-2aec626ec8d9)
 
 Insert a 6mm magnet in the central hole and make sure it is point the right way so that it attracts the counterpart on the respective module. 
 
 The maget holders are then installed in the profile by first pushing in the side parts in and in between the magnet holder as shown in the image below: 
+
 ![profile-magnet0](https://github.com/thejiral/Separator-filtration_system/assets/62755624/1ddf7919-5be3-42ab-8c7e-d748f51836f2)
 
 Subsequently move the 3 parts together and to the very front. Add M2 button head screws and fasten the screws just enough to fix the maget holder in place. Don't overtighten. 
+
 ![profile-magnet1](https://github.com/thejiral/Separator-filtration_system/assets/62755624/9694269e-e8f2-42db-b396-fbc2d56b2b36)
 
 Assemble partB. Crimp the Microfit connector and insert it in part B. Add the magnet in the central hole. Make sure it is oriented the correct way. 
