@@ -22,22 +22,22 @@ The following aspects however differ from "The_Filter":
 
 Needed parts for a full setup with one central "dual"-module and a "single-left" as well as a "single-right" module.
 
-4x 5015 high performance blower (24V), for example https://en.kris3d.de/products/gdstime-gdb5015-50x50x15mm-blower-fan?_pos=3&_sid=fd8a2629a&_ss=r
-3x MOLEX Microfit 3.0 connector part Nr. 0430200201 (https://www.digikey.at/de/products/detail/molex/0430200201/1132437)
-3x MOLEX Microfit 3.0 connector part Nr. 0430250208 (https://www.digikey.at/de/products/detail/molex/0430250208/4247397)
-6x MOLEX crimping contacts part Nr. 0430300008 (add some spares, according to your crimping skills) (https://www.digikey.at/de/products/detail/molex/0430300008/1132448)
-6x MOLEX crimping contacts part Nr. 0430310008 (add some spares, according to your crimping skills) (https://www.digikey.at/de/products/detail/molex/0430310008/1132450)
-14x magnets (6mm diameter, depth: 3 mm) preferably of the strongest type N52 (https://en.kris3d.de/products/5x-neodym-zylindermagnet-6x3mm-n52?_pos=1&_sid=f31803bf3&_ss=r)
+*4x 5015 high performance blower (24V), for example https://en.kris3d.de/products/gdstime-gdb5015-50x50x15mm-blower-fan?_pos=3&_sid=fd8a2629a&_ss=r
+*3x MOLEX Microfit 3.0 connector part Nr. 0430200201 (https://www.digikey.at/de/products/detail/molex/0430200201/1132437)
+*3x MOLEX Microfit 3.0 connector part Nr. 0430250208 (https://www.digikey.at/de/products/detail/molex/0430250208/4247397)
+*6x MOLEX crimping contacts part Nr. 0430300008 (add some spares, according to your crimping skills) (https://www.digikey.at/de/products/detail/molex/0430300008/1132448)
+*6x MOLEX crimping contacts part Nr. 0430310008 (add some spares, according to your crimping skills) (https://www.digikey.at/de/products/detail/molex/0430310008/1132450)
+*14x magnets (6mm diameter, depth: 3 mm) preferably of the strongest type N52 (https://en.kris3d.de/products/5x-neodym-zylindermagnet-6x3mm-n52?_pos=1&_sid=f31803bf3&_ss=r)
 a few meters of >0.25 mm2 cable for cable management, preferably Heluflon or equivalent due to the very high heat resistance
-13x M3x6mm countersunk head cap screws DIN7991
-18x M3x6mm button head screws ISO 7380-1
-6x M2x4mm button head screws ISO7380-1 (compatible hex-key (1.27mm or 0.05"): https://www.digikey.at/de/products/detail/wiha/66945/511457))
-31x M3 Voron style heat inserts (M3x5x4) (https://www.kris3d.de/products/heatinserts-m3x5x4?_pos=1&_sid=886fd1c22&_ss=r)
-6x M2 heat inserts (https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-standard-100-stk-pcs)
+*13x M3x6mm countersunk head cap screws DIN7991
+*18x M3x6mm button head screws ISO 7380-1
+*6x M2x4mm button head screws ISO7380-1 (compatible hex-key (1.27mm or 0.05"): https://www.digikey.at/de/products/detail/wiha/66945/511457))
+*31x M3 Voron style heat inserts (M3x5x4) (https://www.kris3d.de/products/heatinserts-m3x5x4?_pos=1&_sid=886fd1c22&_ss=r)
+*6x M2 heat inserts (https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-standard-100-stk-pcs)
 a few meters of 2mm thick and 10 mm wide EPDM tape or similar (for example: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-10m-Rolle-2mm-x-diverse-Breiten.htm)
 
 Optional:
-2x WAGO 221-2401 (https://www.digikey.at/de/products/detail/wago-corporation/221-2401/16284533)
+*2x WAGO 221-2401 (https://www.digikey.at/de/products/detail/wago-corporation/221-2401/16284533)
 
 
 # Assembly
