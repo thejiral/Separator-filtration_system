@@ -44,11 +44,11 @@ Optional:
 
 # Assembly
 
-Prepare MOLEX Micro-fit 3.0 connectors by removing the snap connection points with a cutter, so that the surface is afterwards flush, as shown in the below before and after image:
+Prepare MOLEX Micro-fit 3.0 connectors by removing the snap connection points with a cutter, so that the surface is flush afterwards, as shown in the below before and after image:
 
 ![microfit-modification](https://github.com/thejiral/Separator-filtration_system/assets/62755624/4b3ffcca-e1b7-49d7-8b20-1bed130a67ff)
 
-Test assemble the Microfit 3.0 connectors as shown in the two following images. Be careful of the precise orientation. 
+Test assemble the Microfit 3.0 connectors as shown in the two following images. Be careful of the precise orientation.
 
 ![PartB-microfit_orientation](https://github.com/thejiral/Separator-filtration_system/assets/62755624/c0bba41e-f407-4de7-a276-bb98c74003ae)
 
@@ -58,9 +58,9 @@ Test the connection of both parts, they should easily slide into each other. If 
 
 ![microfit-connection-testfit](https://github.com/thejiral/Separator-filtration_system/assets/62755624/0e051a12-e469-4881-89b1-1167154d1c1c)
 
-Disassemble the connectors and remove the micro-fit 3.0 plugs from plastic parts again. 
+Disassemble the connectors and remove the micro-fit 3.0 plugs from the printed parts again. 
 
-Install the bottom mesh in partA by sliding it in while tilted until the intentation in the filter body, press the mesh then past the holding protrusions. Use some Hexkey if your fingers don't make it as far. Check if the mesh is fully clipped in as seen here:
+Install the bottom mesh in partA by sliding it in while keeping it tilted until the intentation in the filter body, press the mesh then past the holding protrusions. Use some Hexkey if your fingers don't make it as far. Check if the mesh is fully clipped in as seen here:
 
 ![Meshinsert](https://github.com/thejiral/Separator-filtration_system/assets/62755624/fd99f50d-7af2-4311-bb3e-fd61a32a6a52)
 
@@ -68,11 +68,11 @@ Add M3 heat inserts to the back of partA.
 
 ![PartA-heatinserts](https://github.com/thejiral/Separator-filtration_system/assets/62755624/68e92178-643f-4388-a1da-3b57399fa0d0)
 
-Assemble PartA and PartC with 4 M3x6 button head screws. 
+Screw together PartA and PartC with 4 M3x6 button head screws. 
 
 ![PartA+C_assembly](https://github.com/thejiral/Separator-filtration_system/assets/62755624/687874d8-2432-4e53-bc5f-f2e97afba82a)
 
-Apply EPDM as shown. The blower inlet is prepared with EPDM tape on all sides, make sure that on the other side, those strips only reach as far as the opening and not further. 
+Apply EPDM tape (thickness: 2mm) as shown. The blower inlet is prepared with EPDM tape on all sides, make sure that on the other side, those strips only reach as far as the opening and not further. 
 
 ![PartA+C_EPDM](https://github.com/thejiral/Separator-filtration_system/assets/62755624/4a482e1f-2ce8-4515-a05e-1462455c236b)
 
@@ -84,11 +84,11 @@ Insert the blower in PartD by wiggling it in, make sure not to push the tape dow
 
 ![PartD+blower+cablemanagement](https://github.com/thejiral/Separator-filtration_system/assets/62755624/212a4d9f-24d6-4585-8319-989fb36548fc)
 
-Combine partA+C and partD. Make sure not to clamp in cable or other parts or cause some EPDM tape overlap. There should be only slight backpressure. Keep both parts together with one hand and fasten 3Mx6mm countersunk head cap screws with the other hand. The cable has to be lead throug the opening on the side and has to be routed to the front where the connector will be located. Insert the 6 mm magnets into the holes after making sure that there are no bulges from the heatsets or other artifacts blocking the opening. Test fit the magnet and see if it fully goes in. If it holds by itself, fine, if not use a tiny drop of superglue at the bottom to glue the maget in place. When inserting magents make sure that the counterpart is inserted in the right direction, that it attracts the other magnet.
+Combine partA+C and partD. Make sure not to clamp in cable or other parts or cause some EPDM tape overlap. There should be only slight backpressure when screwing it together. Keep both parts together with one hand and fasten 3Mx6mm countersunk head cap screws with the other hand. The cable has to be lead through the opening on the side and has to be routed to the front where the connector will be located. Insert the 6 mm magnets into the holes after making sure that there are no bulges from the heatsets or other artifacts blocking the opening. Test fit the magnet and see if it fully goes in. If it holds by itself, fine, if not use a tiny drop of superglue at the bottom to glue the magnet in place. When inserting magnets make sure that the counterpart is inserted in the right direction, that it attracts the other magnet.
 
 ![Full_assembly-magnets+cablemanagement](https://github.com/thejiral/Separator-filtration_system/assets/62755624/8795b6d1-7762-4bdb-904f-95841f553d67)
 
-Shorten the cable as needed, crimp them, assemble the connector and insert it in place. 
+Shorten the cables as needed, crimp them, assemble the connector and insert it in place. 
 
 Repeat the assembly for all modules and fill the filter with active carbon. The filter cassette is closed by sliding a mesh in place at the end of the module. 
 
@@ -109,7 +109,7 @@ Turn around the magnet holder and check if plastic debris is blocking the heat i
 
 Insert a 6mm magnet in the central hole and make sure it is point the right way so that it attracts the counterpart on the respective module. 
 
-The maget holders are then installed in the profile by first pushing in the side parts in and in between the magnet holder as shown in the image below: 
+The maget holders are then installed in the profile by first pushing in the side parts and in between the magnet holder as shown in the image below: 
 
 ![profile-magnet0](https://github.com/thejiral/Separator-filtration_system/assets/62755624/1ddf7919-5be3-42ab-8c7e-d748f51836f2)
 
@@ -119,9 +119,9 @@ Subsequently move the 3 parts together and to the very front. Add M2 button head
 
 Assemble partB. Crimp the Microfit connector and insert it in part B. Add the magnet in the central hole. Make sure it is oriented the correct way. 
 
-One magnet holder goes into each side of the bed profiles on the front side, four in total. Test install each module. When a module is pulled in place by the profile magnet it is time to install part B at the profile. Two M3 T-nuts are inserted (with the two wholes close to each other), loosely screw partB to the T-nuts and move it forward to the module until the microfit connnection is closed. Fasten partB in the orientation where the connection is aligned. 
+One magnet holder goes into each side of both bed profiles on the front side, four in total. Test install each module. When a module is pulled in place by the profile magnet it is time to install part B at the profile. Two M3 T-nuts are inserted (with the two wholes close to each other), loosely screw partB to the T-nuts and move it forward to the module until the microfit connnection is closed. Fasten partB in the orientation where the connection is aligned. 
 
-Optional: 2 WAGO clamps can be mounted sideways with the WAGE clamp mount and the 3 positive cables go to one clamp and the 3 negative cables to the other clamp. The other side is connected to a 24V fan control pin. 
+Optional: 2 WAGO clamps can be mounted sideways with the WAGO clamp mount and the 3 positive cables go to one clamp and the 3 negative cables to the other clamp. The other side is connected to a 24V fan control pin or the 24V hotendheater outlet. 
 
 
 
