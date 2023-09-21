@@ -124,5 +124,10 @@ One magnet holder goes into each side of both bed profiles on the front side, fo
 Optional: 2 WAGO clamps can be mounted sideways with the WAGO clamp mount and the 3 positive cables go to one clamp and the 3 negative cables to the other clamp. The other side is connected to a 24V fan control pin or the 24V hotendheater outlet. 
 
 
+Final assembly with a left and right single module and a dual module:
+
+
+
+
 
 
