@@ -126,6 +126,7 @@ Optional: 2 WAGO clamps can be mounted sideways with the WAGO clamp mount and th
 
 Final assembly with a left and right single module and a dual module:
 
+![Final_assembly]((https://github.com/thejiral/Separator-filtration_system/blob/main/images/Final-assembly.png)https://github.com/thejiral/Separator-filtration_system/blob/main/images/Final-assembly.png)
 
 
 
