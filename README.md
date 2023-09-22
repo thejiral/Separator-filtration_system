@@ -34,7 +34,7 @@ Needed parts for a full setup with one central "dual"-module and a "single-left"
 * 6x M2x4mm button head screws ISO7380-1 (compatible hex-key (1.27mm or 0.05"): https://www.digikey.at/de/products/detail/wiha/66945/511457))
 * 31x M3 Voron style heat inserts (M3x5x4) (https://www.kris3d.de/products/heatinserts-m3x5x4?_pos=1&_sid=886fd1c22&_ss=r)
 * 6x M2 heat inserts (https://cnckitchen.store/products/gewindeeinsatz-threaded-insert-m2-standard-100-stk-pcs)
-a few meters of 2mm thick and 10 mm wide EPDM tape or similar (for example: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-10m-Rolle-2mm-x-diverse-Breiten.htm)
+* a few meters of 2mm thick and 10 mm wide EPDM tape or similar (for example: https://www.fugendichtband24.de/EPDM-Zellkautschuk-einseitig-selbstklebend-10m-Rolle-2mm-x-diverse-Breiten.htm)
 * 6xM3 t-nut
 * activated charcoal, suitable for air purification, a safe bet is the nevermore material (https://www.kris3d.de/products/nevermore-xl-bag?_pos=2&_sid=f7ffb3feb&_ss=r), alternatively source equivalent material from a respectable source.
 
