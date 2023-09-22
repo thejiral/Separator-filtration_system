@@ -28,7 +28,7 @@ Needed parts for a full setup with one central "dual"-module and a "single-left"
 * 6x MOLEX crimping contacts part Nr. 0430300008 (add some spares, according to your crimping skills) (https://www.digikey.at/de/products/detail/molex/0430300008/1132448)
 * 6x MOLEX crimping contacts part Nr. 0430310008 (add some spares, according to your crimping skills) (https://www.digikey.at/de/products/detail/molex/0430310008/1132450)
 * 14x magnets (6mm diameter, depth: 3 mm) preferably of the strongest type N52 (https://en.kris3d.de/products/5x-neodym-zylindermagnet-6x3mm-n52?_pos=1&_sid=f31803bf3&_ss=r)
-a few meters of >0.25 mm2 cable for cable management, preferably Heluflon or equivalent due to the very high heat resistance
+* a few meters of >0.25 mm2 cable for cable management, preferably Heluflon or equivalent due to the very high heat resistance
 * 13x M3x6mm countersunk head cap screws DIN7991
 * 18x M3x6mm button head screws ISO 7380-1
 * 6x M2x4mm button head screws ISO7380-1 (compatible hex-key (1.27mm or 0.05"): https://www.digikey.at/de/products/detail/wiha/66945/511457))
