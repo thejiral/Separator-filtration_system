@@ -5,7 +5,7 @@
 
 # Introduction
 
-This is inspired the popular Nevermore system and by The_Filter,  but designed from scratch with a number of key differences. (https://github.com/nevermore3d/Nevermore_Micro),  https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER) 
+This air filtration system is inspired by the popular Nevermore system and by The_Filter,  but designed from scratch with a number of key differences. (https://github.com/nevermore3d/Nevermore_Micro),  https://github.com/nateb16/VoronUsers/tree/master/printer_mods/nateb16/THE_FILTER) 
 
 Key features it shares with The_Filter but which differ from the Nevermore system:
 
